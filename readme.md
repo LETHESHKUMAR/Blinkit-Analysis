@@ -64,9 +64,9 @@
 
 ## Images
 
-![Dashboard Screenshot](images/ Powerbi_DashBoard_overView.JPG)
-![Mobile Service Report Screenshot](images/ Powerbi_Mobile_Report.jpeg)
-![MySQL CLC Screenshot](images/ MySQL_overView.JPG)
+![Dashboard Screenshot](images/Powerbi_DashBoard_overView.JPG)
+![Mobile Service Report Screenshot](images/Powerbi_Mobile_Report.jpeg)
+![MySQL CLC Screenshot](images/MySQL_overView.JPG)
 
 
 ## Challenges & Solutions
