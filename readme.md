@@ -64,9 +64,9 @@
 
 ## Images
 
-![Dashboard Screenshot](images/ Powerbi_DashBoard_overView.JPG)
-![Mobile Service Report Screenshot](images/ Powerbi_Mobile_Report.jpeg)
-![MySQL CLC Screenshot](images/ MySQL_overView.JPG)
+![Dashboard Screenshot](images/Powerbi_DashBoard_overView.JPG)
+![Mobile Service Report Screenshot](images/Powerbi_Mobile_Report.jpeg)
+![MySQL CLC Screenshot](images/MySQL_overView.JPG)
 
 
 ## Challenges & Solutions
@@ -86,6 +86,10 @@
 
 * This project showcases an end-to-end data analytics workflow using Python, MySQL, and Power BI. It transforms raw retail data into structured insights through data cleaning, database management, and interactive visualization. The project reflects real-world problem solving and delivers meaningful business insights through a scalable and well-structured pipeline.
 
+<<<<<<< HEAD
 # Last Updated : JAN 2026
 
  
+=======
+ 
+>>>>>>> f21a7ed66da3c07e88eb5e3a9a969a39e9e110f4
