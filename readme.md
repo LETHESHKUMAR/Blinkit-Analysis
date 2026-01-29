@@ -86,4 +86,6 @@
 
 * This project showcases an end-to-end data analytics workflow using Python, MySQL, and Power BI. It transforms raw retail data into structured insights through data cleaning, database management, and interactive visualization. The project reflects real-world problem solving and delivers meaningful business insights through a scalable and well-structured pipeline.
 
+# Last Updated : JAN 2026
+
  
