@@ -1,0 +1,29 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyc
+.Python
+.ipynb_checkpoints/
+
+# Environment variables (IMPORTANT!)
+.env
+config.py
+credentials.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Power BI
+*.pbix.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
