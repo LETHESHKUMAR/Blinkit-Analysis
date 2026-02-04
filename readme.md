@@ -14,8 +14,8 @@
 ### Library Uses
 * Pandas: Used for the core ETL process cleaning the raw Excel data and handling missing values.
 * NumPy: Supported Pandas in performing mathematical operations like calculating the mean for imputation.
-​* Openpyxl: The engine required to allow Python to read and extract data from the .xlsx source file.
-​* PyMySQL: The database connector used to bridge Python with the MySQL 8.0 Command Line Client for data storage.
+ ​* Openpyxl: The engine required to allow Python to read and extract data from the .xlsx source file.
+ ​* PyMySQL: The database connector used to bridge Python with the MySQL 8.0 Command Line Client for data storage.
 
 ## Workflow
 * Raw data ingestion from Excel
